@@ -6,6 +6,8 @@ def type_text(text, delay=0.04):
         time.sleep(delay)
     print()
 
+type_text("Palindrome Checker Project \n")
+
 type_text("""A simple yet efficient program designed to check if a given input string is a palindrome. 
 A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).\n""")
     
